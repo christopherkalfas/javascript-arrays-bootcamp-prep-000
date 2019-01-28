@@ -1,4 +1,4 @@
-var chocolateBars =["snickers", "hundred grand", "litkat", "skittles"];
+var chocolateBars =["snickers", "hundred grand", "kitkat", "skittles"];
 
 chocolateBars.unshift("butter fingers")
 
