@@ -9,8 +9,7 @@ function addElementToBeginningOfArray(array, element){
 
 
 function destructivelyAddElementToBeginningOfArray(array, element){
-  console.log [array.unshift(element)]
+  return console.log [array.unshift(element)]
 
 }
 
-chocolateBars.unshift("butter fingers")
