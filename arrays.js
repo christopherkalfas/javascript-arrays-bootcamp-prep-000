@@ -6,4 +6,3 @@ function addElementToBeginingOfArray(array, element){
   return [element].concat(originalArray)
 }
 
-thingToInsertToFront].concat(originalArray)
